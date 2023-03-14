@@ -1,0 +1,8 @@
+6)
+"A's no-arg constructor is invoked"
+Constructor of B does not send any value for x to the constructor of A
+7)
+line 22: this.length=length;
+line 27: return super.getArea()*length;
+8) Overriden
+9) Yes
