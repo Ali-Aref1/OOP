@@ -54,6 +54,7 @@ class GroceryList{
     public void add(GroceryItemOrder item){
         if(items.size()<10)
         items.add(item);
+        size++;
     }
     public double getTotalCost(){
         double cost=0;
